@@ -1,0 +1,9 @@
+class main {
+ public static voidmain(String args[])
+ {
+   System.out.println("aa");
+   int i =3;
+   int j = i+3;
+   System.out.println(j);
+   }
+ }
