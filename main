@@ -3,7 +3,7 @@ class main {
  {
    System.out.println("aa");
    int i =3;
-   int j = i+3;
+   int j = i+3+2;
    System.out.println(j);
    }
  }
